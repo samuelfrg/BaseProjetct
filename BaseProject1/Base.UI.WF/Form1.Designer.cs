@@ -36,9 +36,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(40, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 13);
+            this.label1.Size = new System.Drawing.Size(184, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "OLÁ MUNDO!";
+            this.label1.Text = "OLÁ MUNDO VÉIO SEM PORTERA!";
             // 
             // Form1
             // 
